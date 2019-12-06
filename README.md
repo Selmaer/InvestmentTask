@@ -6,6 +6,7 @@ interest amount.
 3. Interest amount is calculated on the outstanding principal amount.
 4. Investment duration is N years (it means last refund payment should be done in N years
 after making the investment)
+
 The task:
 Write a module (i.e. several functions with same prefix) that takes: Agreement date, Calculation
 date, X, R and N as input data and calculates Sum of all future interest payments.
