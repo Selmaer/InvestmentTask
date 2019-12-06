@@ -8,6 +8,7 @@ interest amount.
 after making the investment)
 
 The task:
+
 Write a module (i.e. several functions with same prefix) that takes: Agreement date, Calculation
 date, X, R and N as input data and calculates Sum of all future interest payments.
 Code requirements/restrictions:
